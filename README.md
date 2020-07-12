@@ -1,6 +1,7 @@
 # SmartportSD
-Fork of SmartportSD by by Andrea Ottaviani which is a port of Apple //c Smartport Compact Flash adpater by Robert Justice.
+Fork of SmartportSD by Andrea Ottaviani which is a port of Apple //c Smartport Compact Flash adpater by Robert Justice.
 Original source: http://www.users.on.net/~rjustice/SmartportCFA/SmartportSD.htm
+Added here for convenience, not intending to take over the project!
 
 I have added some code to support a small OLED display to show some information, rework the code a little for better or worse.
 
