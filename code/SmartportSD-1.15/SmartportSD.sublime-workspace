@@ -1,0 +1,310 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "SmartportSD-1.15.ino",
+			"settings":
+			{
+				"buffer_size": 33287,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "smartport.cpp",
+			"settings":
+			{
+				"buffer_size": 15463,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Projects/Apple2c/Smartport SD/SmartportSD/code/SmartportSD-1.15"
+	],
+	"file_history":
+	[
+		"/D/Projects/Apple2c/Smartport SD/SmartportSD/code/SmartportSD-1.15/QDtech_1.8inch_SPI_MSP1804_schematic_A.pdf",
+		"/D/Projects/Apple2c/Smartport SD/SmartportSD/code/SmartportSD-1.15/smartport.h",
+		"/D/Projects/Apple2c/Smartport SD/SmartportSD/code/SmartportSD-1.15/SmartportSD-1.15.ino",
+		"/D/Projects/Apple2c/Smartport SD/SmartportSD/code/SmartportSD-1.15/gfx_defs.h",
+		"/D/Projects/Apple2c/Smartport SD/SmartportSD/code/SmartportSD-1.15/smartport.cpp",
+		"/D/Projects/Apple2c/Smartport SD/SmartportSD/code/SmartportSD-1.15/packet_16mhz.S",
+		"/D/Projects/Apple2c/Smartport SD/SmartportSD/code/SmartportSD-1.15/smartport.c",
+		"/C/Users/Swanny/Documents/Arduino/libraries/Adafruit_GFX_Library/Adafruit_GFX.h",
+		"/C/Users/Swanny/.apio/packages/toolchain-icestorm/share/yosys/ice40/brams_map.v",
+		"/D/Projects/Apple2c/graphics/build.txt",
+		"/D/Projects/Apple2c/graphics/VGA.v",
+		"//hassio/config/automation/auto_pwned.yaml",
+		"/C/Users/Swanny/AppData/Local/icestudio/Cache/data_0",
+		"/C/Users/Swanny/Documents/My Games/Skyrim VR/SkyrimPrefs.ini",
+		"/C/Unity Projects/TanksPluggableAI/TanksPluggableAI/Assets/Tanks/_Completed-Assets/Scripts/Tank/TankShooting.cs",
+		"/D/Downloads/hvsync_generator/hvsync_generator.v",
+		"/C/Users/Swanny/AppData/Local/icestudio/Cache/index",
+		"/C/Users/Swanny/AppData/Local/icestudio/Cache/f_000003",
+		"/C/Users/Swanny/AppData/Local/icestudio/Cache/f_000001",
+		"/C/Users/Swanny/AppData/Local/icestudio/Cache/data_3",
+		"/C/Users/Swanny/AppData/Local/icestudio/Cache/data_1",
+		"/C/Users/Swanny/AppData/Local/icestudio/Cache/data_2",
+		"/C/Users/Swanny/AppData/Local/Temp/icestudio-12428ecwldIeTriM1/main.v",
+		"/D/Downloads/launcher.zip.1DE67B375A9E4583227C7ACFFF5AEB15.lzma",
+		"//hassio/config/automation/auto_plant.yaml",
+		"//hassio/config/configuration.yaml",
+		"//hassio/config/home-assistant.log",
+		"//hassio/config/automation/auto_lavalamp.yaml",
+		"//hassio/config/automation/auto_alarm.yaml",
+		"/D/Downloads/12__Deer_Clock_for_MPCNC/files/deerclock.dxf",
+		"/C/Program Files/3Dconnexion/3DxWare/3DxWinCore64/Cfg/Excel.xml",
+		"/E/ElseHeartbreak/ElseHeartbreak_Data/InitData/Sprak/Computers/TheHeart_EvilTowardsIvan.sprak",
+		"/E/ElseHeartbreak/ElseHeartbreak_Data/InitData/Sprak/Computers/TheHeart.sprak",
+		"/C/Users/Swanny/Documents/u2f/u2f-zero-master/u2f-zero-master/firmware/inc/app.h",
+		"/E/police.spark.sprak",
+		"/C/Users/Swanny/AppData/Roaming/Sublime Text 3/Packages/User/Spark.sublime-syntax",
+		"//FREENAS/backup/Bought Stuff/Software/Sublime Text/License Key.txt"
+	],
+	"find":
+	{
+		"height": 39.3333333333
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"print_hd_info",
+			"data",
+			"packet_length()",
+			"verify_cmdpkt_checksum",
+			"packet_length",
+			"encode_status_dib_reply_packet",
+			"packet_length",
+			"bram"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"packet_buffer",
+			"packet_length((unsigned char*) packet_buffer)"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "D:\\Projects\\Apple2c\\Smartport SD\\SmartportSD\\code\\SmartportSD-1.15"
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "SmartportSD-1.15.ino",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 33287,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2733,
+								2733
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Arduino-like IDE/Arduino.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "smartport.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 15463,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								788,
+								788
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/C++/C++.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.stino_build_panel":
+	{
+		"height": 0.0
+	},
+	"output.stino_panel":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 300.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
